@@ -1,2 +1,2 @@
-# Bitcam Web-101/ QR code/ build HTML from figma design
-## modified HTML & CSS code + local image  
+# Bitcamp web-path, challenge-0 QR-code
+
