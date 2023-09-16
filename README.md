@@ -1,2 +1,2 @@
-# Bitcamp web-path, challenge-0 QR-code
+# Simple HTML, CSS code (practice)
 
